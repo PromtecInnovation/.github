@@ -27,17 +27,9 @@ Empresa yucateca dedicada a la aplicación e innovación de las tecnologías act
 | Other | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /> <img src="https://cdn.worldvectorlogo.com/logos/mac-os-2.svg" alt="mac-os" width="42" height="42" /> <img src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg" alt="ubuntu" width="42" height="42" /> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg" alt="windows" width="42" height="42" /> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /> |
 
 
-
-
-
-
-
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.facebook.com/https://www.facebook.com/PromtecInnovation/" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=#0866ff" alt="facebook" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=PromtecInnovation&show_icons=true&locale=en" alt="PromtecInnovation" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=PromtecInnovation&" alt="PromtecInnovation" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=PromtecInnovation&show_icons=true&locale=en&layout=compact" alt="PromtecInnovation" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PromtecInnovation" alt="PromtecInnovation" /></a></p>
+
                                                                                                                                                              
 > [!NOTE]  
 > Highlights information that users should take into account, even when skimming.
