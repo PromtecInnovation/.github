@@ -39,7 +39,7 @@
           }
       </style>
 
-      <div class="octagon">
+      <div class="container">
         <img src="https://github.com/ManuelSamos.png" width="100px;" alt="ManuelSamos"/>
         <br />
         <sub><b>Manuel Samos</b></sub>
