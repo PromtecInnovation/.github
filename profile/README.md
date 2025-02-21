@@ -1,33 +1,52 @@
-<style>
-#octagon {
-      width: 100px;
-      height: 100px;
-      background: red;
-      position: relative;
-    }
-    #octagon:before {
-      content: "";
-      width: 100px;
-      height: 0;
-      position: absolute;
-      top: 0;
-      left: 0;
-      border-bottom: 29px solid red;
-      border-left: 29px solid #eee;
-      border-right: 29px solid #eee;
-    }
-    #octagon:after {
-      content: "";
-      width: 100px;
-      height: 0;
-      position: absolute;
-      bottom: 0;
-      left: 0;
-      border-top: 29px solid red;
-      border-left: 29px solid #eee;
-      border-right: 29px solid #eee;
-    }
-</style>
+<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .container {
+          display: flex;
+          width: 100%;
+          height: 300px;
+          background-color: black;
+          color: white;
+        }
+            #octagon {
+            width: 100px;
+            height: 100px;
+            background: red;
+            position: relative;
+          }
+          #octagon:before {
+            content: "";
+            width: 100px;
+            height: 0;
+            position: absolute;
+            top: 0;
+            left: 0;
+            border-bottom: 29px solid red;
+            border-left: 29px solid #eee;
+            border-right: 29px solid #eee;
+          }
+          #octagon:after {
+            content: "";
+            width: 100px;
+            height: 0;
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            border-top: 29px solid red;
+            border-left: 29px solid #eee;
+            border-right: 29px solid #eee;
+          }
+      </style>
+
+      <div class="octagon">
+        <img src="https://github.com/ManuelSamos.png" width="100px;" alt="ManuelSamos"/>
+        <br />
+        <sub><b>Manuel Samos</b></sub>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
 
 <div style="display: flex; justify-content: space-between;">
     <a href="https://ticket2pass.com/" target="_blank"><img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/promtec_Barner.jpg" alt="promtec" width="45%"></a>
