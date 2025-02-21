@@ -9,7 +9,8 @@ Representante en México y Centroamerica de Axess, uno de los principales fabric
 Empresa yucateca dedicada a la aplicación e innovación de las tecnologías actuales integrada por gente joven, estamos insertados en la economía global, con proveedores y asociados en Asia, Norte América y Europa.
 
 <div style="display: flex; justify-content: space-between;">
-    <a href="https://ticket2pass.com/" target="_blank"><img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/promtec_Barner.jpg" alt="promtec" width="45%"></a>
+    <a><video src="https://user-images.githubusercontent.com/126239/151127893-5c98ba8d-c431-4a25-bb1f-e0b33645a2b6.mp4" width="45%"></video>
+    </a>
     <a href="https://youtu.be/yq7UWXE54F4" target="_blank"><img src="https://img.youtube.com/vi/yq7UWXE54F4/maxresdefault.jpg" alt="axess" width="45%"></a>
 </div>
 
