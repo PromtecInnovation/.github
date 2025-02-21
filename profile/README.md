@@ -33,11 +33,11 @@ Empresa yucateca dedicada a la aplicación e innovación de las tecnologías act
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=PromtecInnovation&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=PromtecMaster&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=PromtecInnovation&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=PromtecMaster&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=PromtecMaster&show_icons=true" />
