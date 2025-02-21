@@ -4,12 +4,14 @@
 </div>
 
 ---
-
 Representante en México y Centroamerica de Axess, uno de los principales fabricantes de sistemas de gestión de acceso y emisión de boletos a nivel mundial con planta en Austria y oficinas en todo el mundo.  Su solución de acceso integra hardware y software propietarios que garantizan la mejor experiencia de usuario, con lecturas rápidas y confiables. Cuentan con diversos tipos de integración con lideres del mercado tales como: Ticketmaster, Live Nation y Secutix; ademas de permitir el uso de sistemas de boletaje de ultima generación como NFC, códigos dinámicos y tickets virtuales. Su equipo de desarrollo de software, les permite adaptar y construir soluciones a la medida de los clientes.
 
 Empresa yucateca dedicada a la aplicación e innovación de las tecnologías actuales integrada por gente joven, estamos insertados en la economía global, con proveedores y asociados en Asia, Norte América y Europa.
 
-# 🚀 Skills
+[![Watch the video](https://img.youtube.com/vi/yq7UWXE54F4/maxresdefault.jpg)](https://youtu.be/yq7UWXE54F4)
+
+
+# 🚀 Technology Stacks
 | | |
 | ------------- | ------------- |
 | Programming Languages | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="42" height="42" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="42" height="42" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="42" height="42" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /><img src="https://cdn.worldvectorlogo.com/logos/visual-basic.svg" alt="visual-basic" height="60" /> |
