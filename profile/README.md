@@ -43,14 +43,40 @@ Empresa yucateca dedicada a la aplicación e innovación de las tecnologías act
 > [!NOTE]  
 > Highlights information that users should take into account, even when skimming.
 
-> [!TIP]
-> Optional information to help a user be more successful.
-
 > [!IMPORTANT]  
 > Crucial information necessary for users to succeed.
 
-> [!WARNING]  
-> Critical content demanding immediate user attention due to potential risks.
+## Contribuidores ✨
 
-> [!CAUTION]
-> Negative potential consequences of an action.
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ManuelSamos">
+        <img src="https://github.com/ManuelSamos.png" width="100px;" alt="User1"/>
+        <br />
+        <sub><b>User1</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ARM-develope">
+        <img src="https://github.com/ARM-develope.png" width="100px;" alt="User2"/>
+        <br />
+        <sub><b>User2</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/SariMelina">
+        <img src="https://github.com/SariMelina.png" width="100px;" alt="User2"/>
+        <br />
+        <sub><b>User2</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/apadron06">
+        <img src="https://github.com/apadron06.png" width="100px;" alt="User2"/>
+        <br />
+        <sub><b>User2</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
