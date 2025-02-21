@@ -52,23 +52,19 @@ Empresa yucateca dedicada a la aplicación e innovación de las tecnologías act
         <img src="https://github.com/ManuelSamos.png" width="100px;" alt="ManuelSamos" style="border-radius: 50%;"/> 
         <br />
         <sub><b>Manuel Samos</b></sub>
-    </div>
-    <div href="https://github.com/ARM-develope">
+    </div> <div href="https://github.com/ARM-develope">
         <img src="https://github.com/ARM-developer.png" width="100px;" alt="ARM-develope"/>
         <br />
         <sub><b>Alejandro Ruiz</b></sub>
-    </div>
-    <div href="https://github.com/SariMelina">
+    </div> <div href="https://github.com/SariMelina">
         <img src="https://github.com/SariMelina.png" width="100px;" alt="SariMelina"/>
         <br />
         <sub><b>Sara Reyes</b></sub>
-    </div>
-    <div href="https://github.com/apadron06">
+    </div> <div href="https://github.com/apadron06">
         <img src="https://github.com/apadron06.png" width="100px;" alt="apadron06"/>
         <br />
         <sub><b>Armando Padron</b></sub>
-    </div>
-    <div href="https://github.com/AngelaChable">
+    </div> <div href="https://github.com/AngelaChable">
         <img src="https://github.com/AngelaChable.png" width="100px;" alt="AngelaChable"/>
         <br />
         <sub><b>Angela Chable</b></sub>
