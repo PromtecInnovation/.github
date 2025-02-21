@@ -12,9 +12,9 @@ Representante en México y Centroamerica de Axess, uno de los principales fabric
 
 Empresa yucateca dedicada a la aplicación e innovación de las tecnologías actuales integrada por gente joven, estamos insertados en la economía global, con proveedores y asociados en Asia, Norte América y Europa.
 
-<div style="display: flex; justify-content: space-between;">
+
 [![Axess](https://img.youtube.com/vi/yq7UWXE54F4/mqdefault.jpg)](https://www.youtube.com/watch?v=yq7UWXE54F4) [![Axess](https://img.youtube.com/vi/yq7UWXE54F4/mqdefault.jpg)](https://www.youtube.com/watch?v=yq7UWXE54F4)
-</div>
+
 
 
 # 🚀 Technology Stacks
