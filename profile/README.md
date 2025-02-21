@@ -29,7 +29,7 @@ Empresa yucateca dedicada a la aplicación e innovación de las tecnologías act
 ---
 ### 📈 Stadistic  
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashutosh00710&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashutosh00710&custom_title=This%20is%20a%20title&hide_border=true&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PromtecInnovation&show_icons=true&theme=radical" height="165"/>
