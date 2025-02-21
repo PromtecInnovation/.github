@@ -1,12 +1,40 @@
+<style>
+#octagon {
+      width: 100px;
+      height: 100px;
+      background: red;
+      position: relative;
+    }
+    #octagon:before {
+      content: "";
+      width: 100px;
+      height: 0;
+      position: absolute;
+      top: 0;
+      left: 0;
+      border-bottom: 29px solid red;
+      border-left: 29px solid #eee;
+      border-right: 29px solid #eee;
+    }
+    #octagon:after {
+      content: "";
+      width: 100px;
+      height: 0;
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      border-top: 29px solid red;
+      border-left: 29px solid #eee;
+      border-right: 29px solid #eee;
+    }
+</style>
+
 <div style="display: flex; justify-content: space-between;">
     <a href="https://ticket2pass.com/" target="_blank"><img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/promtec_Barner.jpg" alt="promtec" width="45%"></a>
     <a href="https://teamaxess.com/en/" target="_blank"><img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/axess.jpg" alt="axess" width="45%"></a>
 </div>
  
----<a href="https://github.com/OWNER/REPO/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=OWNER/REPO" />
-</a>
-
+---
 
 Representante en México y Centroamerica de Axess, uno de los principales fabricantes de sistemas de gestión de acceso y emisión de boletos a nivel mundial con planta en Austria y oficinas en todo el mundo.  Su solución de acceso integra hardware y software propietarios que garantizan la mejor experiencia de usuario, con lecturas rápidas y confiables. Cuentan con diversos tipos de integración con lideres del mercado tales como: Ticketmaster, Live Nation y Secutix; ademas de permitir el uso de sistemas de boletaje de ultima generación como NFC, códigos dinámicos y tickets virtuales. Su equipo de desarrollo de software, les permite adaptar y construir soluciones a la medida de los clientes.
 
@@ -50,15 +78,11 @@ Empresa yucateca dedicada a la aplicación e innovación de las tecnologías act
 
 ## Contribuidores ✨
 
-<a href="https://github.com/OWNER/REPO/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=OWNER/REPO" />
-</a>
-
 <table border="0">
   <tr>
     <td align="center">
-      <a>
-        <img src="https://github.com/ManuelSamos.png" width="100px;" alt="ManuelSamos" style="clip-path: polygon(20% 0%, 80% 0%, 100% 20%, 100% 80%, 80% 100%, 20% 100%, 0% 80%, 0% 20%); width: 300px; height: auto;"/>
+      <div class="octagon">
+        <img src="https://github.com/ManuelSamos.png" width="100px;" alt="ManuelSamos"/>
         <br />
         <sub><b>Manuel Samos</b></sub>
       </div>
