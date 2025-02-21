@@ -14,10 +14,10 @@ Empresa yucateca dedicada a la aplicación e innovación de las tecnologías act
 
 <div style="display: flex; justify-content: space-between;">
  <a href="https://ticket2pass.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/promtec_office.jpeg" alt="promtec" height="320" width="45%">
+  <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/promtec_office.jpeg" alt="promtec" height="320" width="180">
  </a> 
  <a href="https://www.youtube.com/watch?v=yq7UWXE54F4" target="_blank">
-   <img src="https://img.youtube.com/vi/yq7UWXE54F4/mqdefault.jpg" alt="axess" height="320" width="45%">
+   <img src="https://img.youtube.com/vi/yq7UWXE54F4/mqdefault.jpg" alt="axess" height="320" width="180">
  </a>
 </div>
 
