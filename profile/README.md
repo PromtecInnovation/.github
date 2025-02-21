@@ -12,7 +12,7 @@ Representante en México y Centroamerica de Axess, uno de los principales fabric
 
 Empresa yucateca dedicada a la aplicación e innovación de las tecnologías actuales integrada por gente joven, estamos insertados en la economía global, con proveedores y asociados en Asia, Norte América y Europa.
 
-<img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/promtec_office.jpeg" alt="c" height="150" /> [![Axess](https://img.youtube.com/vi/yq7UWXE54F4/mqdefault.jpg)](https://www.youtube.com/watch?v=yq7UWXE54F4)
+<img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/promtec_office.jpeg" alt="c" height="180" with="320" /> [![Axess](https://img.youtube.com/vi/yq7UWXE54F4/mqdefault.jpg)](https://www.youtube.com/watch?v=yq7UWXE54F4)
 
 
 
