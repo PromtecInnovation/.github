@@ -25,7 +25,10 @@ Empresa yucateca dedicada a la aplicación e innovación de las tecnologías act
  ![DockerCompose](https://flat.badgen.net/badge/FOR/?scale=1.4&icon=https%3A%2F%2Fraw.githubusercontent.com%2FManuelSamos%2FManuelSamos%2F2c7005f3d1ee1bb17474e9db4b6de4e12f3474a6%2Fdockercompose.svg&label) |
 | Software | <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="42" height="42" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="42" height="42" /> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg" alt="xd" width="42" height="42" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /> |
 | Other | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /> <img src="https://cdn.worldvectorlogo.com/logos/mac-os-2.svg" alt="mac-os" width="42" height="42" /> <img src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg" alt="ubuntu" width="42" height="42" /> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg" alt="windows" width="42" height="42" /> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /> |
+ 
+---
 
+https://github-readme-stats.vercel.app/api/top-langs/?username=PromtecInnovation&theme=blue-green
 
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.facebook.com/https://www.facebook.com/PromtecInnovation/" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=#0866ff" alt="facebook" /></a></p>
