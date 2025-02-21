@@ -51,7 +51,7 @@ Empresa yucateca dedicada a la aplicación e innovación de las tecnologías act
   <tr>
     <td align="center">
       <div class="octagon">
-        <img src="https://github.com/ManuelSamos.png" width="100px;" alt="ManuelSamos"/>
+        <img src="https://github.com/ManuelSamos.png" width="100px;" alt="ManuelSamos" style="border-radius: 50%;"/>
         <br />
         <sub><b>Manuel Samos</b></sub>
       </div>
@@ -79,7 +79,7 @@ Empresa yucateca dedicada a la aplicación e innovación de las tecnologías act
     </td>
     <td align="center">
       <a href="https://github.com/AngelaChable">
-        <img src="https://github.com/AngelaChable.png" width="100px;" style="clip-path: polygon(20% 0%, 80% 0%, 100% 20%, 100% 80%, 80% 100%, 20% 100%, 0% 80%, 0% 20%);" alt="AngelaChable"/>
+        <img src="https://github.com/AngelaChable.png" width="100px;" style="clip-path: polygon('20% 0%, 80% 0%, 100% 20%, 100% 80%, 80% 100%, 20% 100%, 0% 80%, 0% 20%')  !important;" alt="AngelaChable"/>
         <br />
         <sub><b>Angela Chable</b></sub>
       </a>
