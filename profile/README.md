@@ -2,8 +2,8 @@
     <a href="https://ticket2pass.com/" target="_blank"><img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/promtec_Barner.jpg" alt="promtec" width="45%"></a>
     <a href="https://teamaxess.com/en/" target="_blank"><img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/axess.jpg" alt="axess" width="45%"></a>
 </div>
-<code style="color : orange">text</code>
-<hr style="background-color:orange;">
+<code style="color : #FFD700">text</code>
+<hr style="background-color:#FFD700;">
  
 ---
 
