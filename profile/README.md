@@ -1,6 +1,6 @@
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/promtec_Barner.jpg" alt="promtec" width="45%">
-    <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/axess.jpg" alt="axess" width="45%">
+    <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/promtec_Barner.jpg" alt="promtec" width="50%">
+    <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/axess.jpg" alt="axess" width="50%">
 </div>
  
 ---
