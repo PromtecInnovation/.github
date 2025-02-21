@@ -10,8 +10,8 @@ Empresa yucateca dedicada a la aplicación e innovación de las tecnologías act
 
 <div style="display: flex; justify-content: space-between;">
     <a><video src="https://user-images.githubusercontent.com/126239/151127893-5c98ba8d-c431-4a25-bb1f-e0b33645a2b6.mp4" width="45%"></video>
-    </a>
-    <a href="https://youtu.be/yq7UWXE54F4" target="_blank"><img src="https://img.youtube.com/vi/yq7UWXE54F4/maxresdefault.jpg" alt="axess" width="45%"></a>
+    <a><video src="https://youtu.be/yq7UWXE54F4" width="45%"></video></a>
+    
 </div>
 
 # 🚀 Technology Stacks
