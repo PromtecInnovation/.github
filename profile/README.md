@@ -1,6 +1,4 @@
-<div>
-<a target="_blank" href="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/promtec_Barner.jpg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/promtec_Barner.jpg" alt="PromtecBarner" height="120"  align="left"> <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/axess.jpg" alt="PromtecBarner" height="120"  align="right"></a>
-</div>
+<a target="_blank" href="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/promtec_Barner.jpg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/promtec_Barner.jpg" alt="PromtecBarner" height="120"  align="center"> <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/axess.jpg" alt="PromtecBarner" height="120"  align="center"></a>
  
 ---
 
