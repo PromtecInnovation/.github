@@ -51,11 +51,11 @@ Empresa yucateca dedicada a la aplicación e innovación de las tecnologías act
 <table border="0">
   <tr>
     <td align="center">
-      <a href="https://github.com/ManuelSamos">
-        <img src="https://github.com/ManuelSamos.png" width="100px;" style="clip-path: polygon(20% 0%, 80% 0%, 100% 20%, 100% 80%, 80% 100%, 20% 100%, 0% 80%, 0% 20%);" alt="ManuelSamos"/>
+      <div href="https://github.com/ManuelSamos"  style="clip-path: polygon(20% 0%, 80% 0%, 100% 20%, 100% 80%, 80% 100%, 20% 100%, 0% 80%, 0% 20%) !importat;">
+        <img src="https://github.com/ManuelSamos.png" width="100px;" alt="ManuelSamos"/>
         <br />
         <sub><b>Manuel Samos</b></sub>
-      </a>
+      </div>
     </td>
     <td align="center">
       <a href="https://github.com/ARM-develope">
