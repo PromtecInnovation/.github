@@ -2,14 +2,13 @@
     <a href="https://ticket2pass.com/" target="_blank"><img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/promtec_Barner.jpg" alt="promtec" width="45%"></a>
     <a href="https://teamaxess.com/en/" target="_blank"><img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/axess.jpg" alt="axess" width="45%"></a>
 </div>
+<hr style="border:2px solid orange">
  
 ---
 
 Representante en México y Centroamerica de Axess, uno de los principales fabricantes de sistemas de gestión de acceso y emisión de boletos a nivel mundial con planta en Austria y oficinas en todo el mundo.  Su solución de acceso integra hardware y software propietarios que garantizan la mejor experiencia de usuario, con lecturas rápidas y confiables. Cuentan con diversos tipos de integración con lideres del mercado tales como: Ticketmaster, Live Nation y Secutix; ademas de permitir el uso de sistemas de boletaje de ultima generación como NFC, códigos dinámicos y tickets virtuales. Su equipo de desarrollo de software, les permite adaptar y construir soluciones a la medida de los clientes.
 
 Empresa yucateca dedicada a la aplicación e innovación de las tecnologías actuales integrada por gente joven, estamos insertados en la economía global, con proveedores y asociados en Asia, Norte América y Europa.
-
-<div style="margin: 10px auto; background-color: #fa7d1f; width: 400px; height: 10px;">
 
 # 🚀 Skills
 | | |
