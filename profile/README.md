@@ -47,26 +47,43 @@ Empresa yucateca dedicada a la aplicación e innovación de las tecnologías act
 
 ## Contribuidores ✨
 
-<div style="display: flex; justify-content: space-between;">
-    <div href="https://github.com/ManuelSamos">
-        <img src="https://github.com/ManuelSamos.png" width="100px;" alt="ManuelSamos" style="border-radius: 50%;"/> 
+<table>
+  <tr>
+    <td align="center">
+      <a
+         <img src="https://github.com/ManuelSamos.png" width="100px;" alt="ManuelSamos" style="border-radius: 50%;"/> 
         <br />
         <sub><b>Manuel Samos</b></sub>
-    </div> <div href="https://github.com/ARM-develope">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ARM-develope">
         <img src="https://github.com/ARM-developer.png" width="100px;" alt="ARM-develope"/>
         <br />
         <sub><b>Alejandro Ruiz</b></sub>
-    </div> <div href="https://github.com/SariMelina">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/SariMelina">
         <img src="https://github.com/SariMelina.png" width="100px;" alt="SariMelina"/>
         <br />
         <sub><b>Sara Reyes</b></sub>
-    </div> <div href="https://github.com/apadron06">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/apadron06">
         <img src="https://github.com/apadron06.png" width="100px;" alt="apadron06"/>
         <br />
         <sub><b>Armando Padron</b></sub>
-    </div> <div href="https://github.com/AngelaChable">
-        <img src="https://github.com/AngelaChable.png" width="100px;" alt="AngelaChable"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/AngelaChable">
+        <img src="https://github.com/AngelaChable.png" width="100px;" style="clip-path: polygon('20% 0%, 80% 0%, 100% 20%, 100% 80%, 80% 100%, 20% 100%, 0% 80%, 0% 20%')  !important;" alt="AngelaChable"/>
         <br />
         <sub><b>Angela Chable</b></sub>
-    </div>
-</div>
+      </a>
+    </td>
+  </tr>
+</table>
+
