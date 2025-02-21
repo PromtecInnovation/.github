@@ -1,4 +1,4 @@
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between; with:100%">
     <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/promtec_Barner.jpg" alt="promtec" width="45%">
     <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/axess.jpg" alt="axess" width="45%">
 </div>
