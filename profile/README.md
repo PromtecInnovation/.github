@@ -2,7 +2,7 @@
     <a href="https://ticket2pass.com/" target="_blank"><img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/promtec_Barner.jpg" alt="promtec" width="45%"></a>
     <a href="https://teamaxess.com/en/" target="_blank"><img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/axess.jpg" alt="axess" width="45%"></a>
 </div>
-<hr style="border:2px solid orange">
+<hr style="border:2px solid orange; background-color:orange;">
  
 ---
 
