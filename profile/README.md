@@ -50,7 +50,7 @@ Empresa yucateca dedicada a la aplicación e innovación de las tecnologías act
 <table>
   <tr>
     <td align="center">
-      <a
+      <a href="https://github.com/ManuelSamos">
          <img src="https://github.com/ManuelSamos.png" width="100px;" alt="ManuelSamos" style="border-radius: 50%;"/> 
         <br />
         <sub><b>Manuel Samos</b></sub>
