@@ -51,8 +51,8 @@ Empresa yucateca dedicada a la aplicación e innovación de las tecnologías act
 <table border="0">
   <tr>
     <td align="center">
-      <div href="https://github.com/ManuelSamos"  style="clip-path: polygon(20% 0%, 80% 0%, 100% 20%, 100% 80%, 80% 100%, 20% 100%, 0% 80%, 0% 20%) !importat;">
-        <img src="https://github.com/ManuelSamos.png" width="100px;" alt="ManuelSamos"/>
+      <a>
+        <img src="https://github.com/ManuelSamos.png" width="100px;" alt="ManuelSamos" style="clip-path: polygon(20% 0%, 80% 0%, 100% 20%, 100% 80%, 80% 100%, 20% 100%, 0% 80%, 0% 20%); width: 300px; height: auto;"/>
         <br />
         <sub><b>Manuel Samos</b></sub>
       </div>
