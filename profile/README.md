@@ -7,9 +7,12 @@
  </a>
 </div>
 
----
+<img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/orange_bar.png" width ="100%" height="4"> 
 
-## <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/business-management.gif" width ="30"><b> About us</b>
+<br>
+
+### <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/business-management.gif" width ="30"><b> About us</b><img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/orange_bar.png" width ="100%" height="1">
+
 <!--- Description (start) -->
 <table align="center" width="100%" border="0">
   <tr border="none">
@@ -85,6 +88,14 @@
  <br>                                                                                                                                                             
 
 ## <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/coworking.gif" width ="30"><b> Contributor</b>
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
 
 <table align="center" width="100%">
   <tr border="none">
