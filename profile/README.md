@@ -1,9 +1,3 @@
-<style>
-td, th {
-   border: none!important;
-}
-</style>
-
 <div style="display: flex; justify-content: space-between;">
  <a href="https://ticket2pass.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/promtec_Barner.jpg" alt="promtec" width="45%">
@@ -29,15 +23,25 @@ td, th {
 </p>
 <!--- (end) -->
 
+<strong>Promtec Innovation</strong> empresa yucateca dedicada a la aplicación e innovación de las tecnologías actuales integrada por gente joven, estamos insertados en la economía global, con proveedores y asociados en Asia, Norte América y Europa.
 
-<div style="display: flex; justify-content: space-between;">
-  <div width="45%"> 
-   Representante en México y Centroamerica de Axess, uno de los principales fabricantes de sistemas de gestión de acceso y emisión de boletos a nivel mundial con planta en Austria y oficinas en todo el mundo.  Su solución de acceso integra hardware y software propietarios que garantizan la mejor experiencia de usuario, con lecturas rápidas y confiables. Cuentan con diversos tipos de integración con lideres del mercado tales como: Ticketmaster, Live Nation y Secutix; ademas de permitir el uso de sistemas de boletaje de ultima generación como NFC, códigos dinámicos y tickets virtuales. Su equipo de desarrollo de software, les permite adaptar y construir soluciones a la medida de los clientes. 
-  </div>
- <div width="45%"><img src="https://ticket2pass.com/images/home/map_axxess.webp" alt="axess map" height="180" width="320"></div>
-</div>
-
-Empresa yucateca dedicada a la aplicación e innovación de las tecnologías actuales integrada por gente joven, estamos insertados en la economía global, con proveedores y asociados en Asia, Norte América y Europa.
+<!--- Description (start) -->
+<p align="center">
+ <table align="center">
+  <tr border="none">
+   <td width="50%" align="left">
+     <a href="https://ticket2pass.com/" target="_blank">
+      <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/promtec_office.jpeg" alt="promtec" height="180" width="320">
+     </a>
+    <td width="50%" align="center">
+     <a href="https://www.youtube.com/watch?v=yq7UWXE54F4" target="_blank">
+      <img src="https://img.youtube.com/vi/yq7UWXE54F4/mqdefault.jpg" alt="axess" height="180" width="320">
+     </a>
+    </td>
+   </tr>
+ </table>
+</p>
+<!--- (end) -->
 
 <div style="display: flex; justify-content: space-between;">
   <a href="https://ticket2pass.com/" target="_blank">
