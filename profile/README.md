@@ -42,6 +42,10 @@ Empresa yucateca dedicada a la aplicación e innovación de las tecnologías act
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PromtecMaster&custom_title=Contribution%20Graph&hide_border=true&theme=github-light)
 
+| Star Geographic Distribution | Star History |
+| ----------- | ----------- |
+|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-map/thumbnail.png?activity=stars&repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-history/thumbnail.png?repo_id=41986369&image_size=auto" />|
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=PromtecMaster&show_icons=true&theme=dark"
