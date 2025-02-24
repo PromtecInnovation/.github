@@ -27,27 +27,18 @@
   <tr border="none">
    <td width="50%" align="left">
      <a href="https://ticket2pass.com/" target="_blank">
-      <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/promtec_office.jpeg" alt="promtec" height="180" width="320">
+      <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/promtec_office.jpeg" alt="promtec" height="220" width="380">
      </a>
     <td width="50%" align="center">
      <a href="https://www.youtube.com/watch?v=yq7UWXE54F4" target="_blank">
-      <img src="https://img.youtube.com/vi/yq7UWXE54F4/mqdefault.jpg" alt="axess" height="180" width="320">
+      <img src="https://img.youtube.com/vi/yq7UWXE54F4/mqdefault.jpg" alt="axess" height="220" width="380">
      </a>
     </td>
    </tr>
  </table>
+ <br>
 
-<div style="display: flex; justify-content: space-between;">
-  <a href="https://ticket2pass.com/" target="_blank">
-   <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/promtec_office.jpeg" alt="promtec" height="180" width="320">
-  </a> 
-  <a href="https://www.youtube.com/watch?v=yq7UWXE54F4" target="_blank">
-   <img src="https://img.youtube.com/vi/yq7UWXE54F4/mqdefault.jpg" alt="axess" height="180" width="320">
-  </a>
-</div>
-
-
-# 🚀 Technology Stacks
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Technology Stacks</b>
 | | |
 | ------------- | ------------- |
 | Programming Languages | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" title="Programming language C" />](https://en.wikipedia.org/wiki/C_(programming_language)) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="42" height="42" title="Programming language Go"/>](https://en.wikipedia.org/wiki/Go_(programming_language)) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" title="Programming language Javascript"/>](https://en.wikipedia.org/wiki/JavaScript) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="42" height="42" title="Programming language C sharp"/>](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="42" height="42" title="Programming language Php"/>](https://en.wikipedia.org/wiki/PHP) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" title="Java"/>](https://en.wikipedia.org/wiki/Java_(programming_language)) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" title="Programming language Typescript"/>](https://en.wikipedia.org/wiki/TypeScript) [<img src="https://cdn.worldvectorlogo.com/logos/visual-basic.svg" alt="visual-basic" height="60" title="Programming language Visual Basic"/>](https://es.wikipedia.org/wiki/Visual_Basic) [<img src="https://raw.githubusercontent.com/ManuelSamos/ManuelSamos/refs/heads/main/foxfinal.png" alt="codeigniter" width="42" height="42" title="Programming language FoxPro"/>](https://en.wikipedia.org/wiki/Visual_FoxPro) |
