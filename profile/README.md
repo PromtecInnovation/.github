@@ -11,7 +11,7 @@
 
 <br>
 
-### <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/business-management.gif" width ="30"><b> About us</b><img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/orange_bar.png" width ="100%" height="1">
+### <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/business-management.gif" width ="30"><b> About us</b><img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/orange_bar.png" width ="100%" height="0.5">
 
 <!--- Description (start) -->
 <table align="center" width="100%" border="0">
@@ -45,8 +45,9 @@
 <!--- Description (end) -->
 
  <br>
+ 
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Technology Stacks</b><img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/orange_bar.png" width ="100%" height="0.5">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Technology Stacks</b>
 | | |
 | ------------- | ------------- |
 | Programming Languages | [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" title="Programming language C" />](https://en.wikipedia.org/wiki/C_(programming_language)) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="42" height="42" title="Programming language Go"/>](https://en.wikipedia.org/wiki/Go_(programming_language)) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" title="Programming language Javascript"/>](https://en.wikipedia.org/wiki/JavaScript) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="42" height="42" title="Programming language C sharp"/>](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="42" height="42" title="Programming language Php"/>](https://en.wikipedia.org/wiki/PHP) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" title="Java"/>](https://en.wikipedia.org/wiki/Java_(programming_language)) [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" title="Programming language Typescript"/>](https://en.wikipedia.org/wiki/TypeScript) [<img src="https://cdn.worldvectorlogo.com/logos/visual-basic.svg" alt="visual-basic" height="60" title="Programming language Visual Basic"/>](https://es.wikipedia.org/wiki/Visual_Basic) [<img src="https://raw.githubusercontent.com/ManuelSamos/ManuelSamos/refs/heads/main/foxfinal.png" alt="codeigniter" width="42" height="42" title="Programming language FoxPro"/>](https://en.wikipedia.org/wiki/Visual_FoxPro) |
@@ -62,8 +63,9 @@
 | Other | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /> <img src="https://cdn.worldvectorlogo.com/logos/mac-os-2.svg" alt="mac-os" width="42" height="42" /> <img src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg" alt="ubuntu" width="42" height="42" /> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg" alt="windows" width="42" height="42" /> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /> |
  
 <br>
+
+### <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/analytics.gif" width ="30"><b> Stadistic</b><img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/orange_bar.png" width ="100%" height="0.5">
  
-## <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/analytics.gif" width ="30"><b> Stadistic</b>
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PromtecMaster&custom_title=Contribution%20Graph&hide_border=true&theme=github-light)
 
 <!--- <img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-history/thumbnail.png?repo_id=41986369&image_size=auto" /> --->
@@ -80,22 +82,37 @@
   <img src="https://github-readme-stats.vercel.app/api?username=PromtecMaster&show_icons=true" />
 </picture>
 
----
-## <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/phone-book.gif" width ="30"><b> Where to find me</b>
+<br><br>
+
+### <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/phone-book.gif" width ="30"><b> Where to find me</b><img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/orange_bar.png" width ="100%" height="0.5">
 
 <p><a target="_blank" href="https://www.facebook.com/https://www.facebook.com/PromtecInnovation/" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=#0866ff" alt="facebook" /></a></p>
+    
 
- <br>                                                                                                                                                             
-
-## <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/coworking.gif" width ="30"><b> Contributor</b>
-
-```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
+```topojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "zoom":[16.64]
+      },
+      "geometry": {
+        "coordinates": [
+          -89.62088961157328,
+          21.001229016031516
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}
 ```
+
+<br>
+
+### <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/coworking.gif" width ="30"><b> Contributor</b><img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/orange_bar.png" width ="100%" height="0.5">
 
 <table align="center" width="100%">
   <tr border="none">
