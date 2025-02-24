@@ -1,19 +1,14 @@
-<div style="display: flex; justify-content: space-between; with:100%;"  width="100%">
- <a href="https://ticket2pass.com/" target="_blank" align="left">
-  <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/promtec_Barner.jpg" alt="promtec" width="45%">
- </a> 
- <a href="https://teamaxess.com/en/" target="_blank" align="left">
-   <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/axess.jpg" alt="axess" width="45%">
- </a>
+<div style="display: flex;" with="100%">
+ <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/promtec_Barner.jpg" alt="promtec" width="45%" align="left">
+ <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/axess.jpg" alt="axess" width="45%" align="right">
+ <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/orange_bar.png" width ="100%" height="4"> 
 </div>
 
-<img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/orange_bar.png" width ="100%" height="4"> 
-
 <br>
+<!--- Description (start) -->
 
 ### <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/business-management.gif" width ="30"><b> About us</b><img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/orange_bar.png" width ="100%" height="0.5">
 
-<!--- Description (start) -->
 <table align="center" width="100%" border="0">
   <tr border="none">
    <td width="60%" align="left">
@@ -22,31 +17,19 @@
      <img src="https://ticket2pass.com/images/home/map_axxess.webp" alt="axess map" width="100%">     
     </td>
    </tr>
-</table>
-<table align="center" width="100%">
  <tr border="none">
   <td colspan="2" width="100%" align="left">
-     <strong>Promtec Innovation</strong>strong> is a Yucatecan company dedicated to the application and innovation of current technologies. Composed of young professionals, we are integrated into the global economy, with suppliers and partners in Asia, North America, and Europe.
+     <strong>Promtec Innovation</strong> is a Yucatecan company dedicated to the application and innovation of current technologies. Composed of young professionals, we are integrated into the global economy, with suppliers and partners in Asia, North America, and Europe.
   </td>
  </tr>
- <tr border="none"><td colspan="2" width="100%" align="left"></td></tr>   
- <tr border="none" width="100%">
-   <td width="50%" align="center">
-     <a href="https://ticket2pass.com/" target="_blank">
-      <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/promtec_office.jpeg" alt="promtec" height="220" width="380">
-     </a>
-    <td width="50%" align="center">
-     <a href="https://www.youtube.com/watch?v=yq7UWXE54F4" target="_blank">
-      <img src="https://img.youtube.com/vi/yq7UWXE54F4/mqdefault.jpg" alt="axess" height="220" width="380">
-     </a>
-    </td>
-   </tr>
 </table>
+
+<a href="https://ticket2pass.com/" target="_blank"><img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/promtec_office.jpeg" alt="promtec" height="220" width="45%" align="left"/></a>
+<a href="https://www.youtube.com/watch?v=yq7UWXE54F4" target="_blank"><img src="https://img.youtube.com/vi/yq7UWXE54F4/mqdefault.jpg" alt="axess" height="220" width="45%" align="right"/></a>
+<img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/orange_bar.png" width ="100%" height="1"> 
 <!--- Description (end) -->
 
- <br>
-
- 
+<br> 
  
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Technology Stacks</b><img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/orange_bar.png" width ="100%" height="0.5">
 
@@ -70,8 +53,6 @@
  
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PromtecMaster&custom_title=Contribution%20Graph&hide_border=true&theme=github-light)
 
-<!--- <img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-history/thumbnail.png?repo_id=41986369&image_size=auto" /> --->
-
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=PromtecMaster&show_icons=true&theme=dark"
@@ -83,6 +64,26 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=PromtecMaster&show_icons=true" />
 </picture>
+
+<picture>
+  <source
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=PromtecMaster&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=PromtecMaster&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PromtecMaster&show_icons=true" />
+</picture>
+
+
+
+<br/>
+
+> [!NOTE]  
+> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level
+
 
 <br><br>
 
@@ -156,10 +157,13 @@
   </tr>
 </table>
 
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
+
  <br>
  
-> [!NOTE]  
-> Highlights information that users should take into account, even when skimming.
+
 
 > [!IMPORTANT]  
 > Crucial information necessary for users to succeed.
