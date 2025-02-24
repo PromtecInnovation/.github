@@ -1,31 +1,34 @@
-<div style="display: flex; justify-content: space-between;">
- <a href="https://ticket2pass.com/" target="_blank">
+<div style="display: flex; justify-content: space-between; with:100%;"  width="100%">
+ <a href="https://ticket2pass.com/" target="_blank" align="left">
   <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/promtec_Barner.jpg" alt="promtec" width="45%">
  </a> 
- <a href="https://teamaxess.com/en/" target="_blank">
+ <a href="https://teamaxess.com/en/" target="_blank" align="left">
    <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/axess.jpg" alt="axess" width="45%">
  </a>
 </div>
 
 ---
 
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> About Us</b>
 <!--- Description (start) -->
-<table align="center" width="100%">
+<table align="center" width="100%" border="0">
   <tr border="none">
-   <td width="60%" align="left">
+   <td width="60%" align="left" style="border-color:white !important;;">
     Representante en México y Centroamerica de Axess, uno de los principales fabricantes de sistemas de gestión de acceso y emisión de boletos a nivel mundial con planta en Austria y oficinas en todo el mundo.  Su solución de acceso integra hardware y software propietarios que garantizan la mejor experiencia de usuario, con lecturas rápidas y confiables. Cuentan con diversos tipos de integración con lideres del mercado tales como: Ticketmaster, Live Nation y Secutix; ademas de permitir el uso de sistemas de boletaje de ultima generación como NFC, códigos dinámicos y tickets virtuales. Su equipo de desarrollo de software, les permite adaptar y construir soluciones a la medida de los clientes.</td>
-    <td width="40%" align="center">
+    <td width="40%" align="center" style="border:1px solid #ffffff !important;">
      <img src="https://ticket2pass.com/images/home/map_axxess.webp" alt="axess map" width="100%">     
     </td>
    </tr>
 </table>
-
-<strong>Promtec Innovation</strong> empresa yucateca dedicada a la aplicación e innovación de las tecnologías actuales integrada por gente joven, estamos insertados en la economía global, con proveedores y asociados en Asia, Norte América y Europa.
-<!--- (end) -->
-
- <table align="center" width="100%">
-  <tr border="none">
-   <td width="50%" align="left">
+<table align="center" width="100%">
+ <tr border="none">
+  <td colspan="2" width="100%" align="left">
+     <strong>Promtec Innovation</strong> empresa yucateca dedicada a la aplicación e innovación de las tecnologías actuales integrada por gente joven, estamos insertados en la economía global, con proveedores y asociados en Asia, Norte América y Europa.
+  </td>
+ </tr>
+ <tr border="none"><td colspan="2" width="100%" align="left"></td></tr>   
+ <tr border="none" width="100%">
+   <td width="50%" align="center">
      <a href="https://ticket2pass.com/" target="_blank">
       <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/promtec_office.jpeg" alt="promtec" height="220" width="380">
      </a>
@@ -35,7 +38,9 @@
      </a>
     </td>
    </tr>
- </table>
+</table>
+<!--- Description (end) -->
+
  <br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Technology Stacks</b>
