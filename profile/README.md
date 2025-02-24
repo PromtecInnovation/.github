@@ -9,7 +9,7 @@
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> About Us</b>
+## <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/business-management.gif" width ="30"><b> About us</b>
 <!--- Description (start) -->
 <table align="center" width="100%" border="0">
   <tr border="none">
@@ -59,8 +59,8 @@
 | Other | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /> <img src="https://cdn.worldvectorlogo.com/logos/mac-os-2.svg" alt="mac-os" width="42" height="42" /> <img src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg" alt="ubuntu" width="42" height="42" /> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg" alt="windows" width="42" height="42" /> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /> |
  
 ---
-### 📈 Stadistic  
 
+## <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/analytics.gif" width ="30"><b> Stadistic</b>
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PromtecMaster&custom_title=Contribution%20Graph&hide_border=true&theme=github-light)
 
 | Star Geographic Distribution | Star History |
