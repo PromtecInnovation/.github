@@ -13,9 +13,9 @@
 <!--- Description (start) -->
 <table align="center" width="100%" border="0">
   <tr border="none">
-   <td width="60%" align="left" style="border-color:white !important;;">
+   <td width="60%" align="left">
     Representante en México y Centroamerica de Axess, uno de los principales fabricantes de sistemas de gestión de acceso y emisión de boletos a nivel mundial con planta en Austria y oficinas en todo el mundo.  Su solución de acceso integra hardware y software propietarios que garantizan la mejor experiencia de usuario, con lecturas rápidas y confiables. Cuentan con diversos tipos de integración con lideres del mercado tales como: Ticketmaster, Live Nation y Secutix; ademas de permitir el uso de sistemas de boletaje de ultima generación como NFC, códigos dinámicos y tickets virtuales. Su equipo de desarrollo de software, les permite adaptar y construir soluciones a la medida de los clientes.</td>
-    <td width="40%" align="center" style="border:1px solid #ffffff !important;">
+    <td width="40%" align="center">
      <img src="https://ticket2pass.com/images/home/map_axxess.webp" alt="axess map" width="100%">     
     </td>
    </tr>
@@ -58,14 +58,12 @@
 | Software | <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="42" height="42" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="42" height="42" /> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd-1.svg" alt="xd" width="42" height="42" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="42" height="42" /> |
 | Other | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /> <img src="https://cdn.worldvectorlogo.com/logos/mac-os-2.svg" alt="mac-os" width="42" height="42" /> <img src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg" alt="ubuntu" width="42" height="42" /> <img src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg" alt="windows" width="42" height="42" /> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /> |
  
----
-
+<br>
+ 
 ## <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/analytics.gif" width ="30"><b> Stadistic</b>
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=PromtecMaster&custom_title=Contribution%20Graph&hide_border=true&theme=github-light)
 
-| Star Geographic Distribution | Star History |
-| ----------- | ----------- |
-|<img src="https://ticket2pass.com/images/home/map_axxess.webp" />|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-history/thumbnail.png?repo_id=41986369&image_size=auto" />|
+<!--- <img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-history/thumbnail.png?repo_id=41986369&image_size=auto" /> --->
 
 <picture>
   <source
@@ -80,22 +78,16 @@
 </picture>
 
 ---
-
-### ⚡️ Where to find me
+## <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/phone-book.gif" width ="30"><b> Where to find me</b>
 
 <p><a target="_blank" href="https://www.facebook.com/https://www.facebook.com/PromtecInnovation/" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=#0866ff" alt="facebook" /></a></p>
 
-                                                                                                                                                             
-> [!NOTE]  
-> Highlights information that users should take into account, even when skimming.
+ <br>                                                                                                                                                             
 
-> [!IMPORTANT]  
-> Crucial information necessary for users to succeed.
+## <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/coworking.gif" width ="30"><b> Contributor</b>
 
-## Contribuidores ✨
-
-<table>
-  <tr>
+<table align="center" width="100%">
+  <tr border="none">
     <td align="center">
       <a href="https://github.com/ManuelSamos">
          <img src="https://github.com/ManuelSamos.png" width="100px;" alt="ManuelSamos" style="border-radius: 50%;"/> 
@@ -134,14 +126,10 @@
   </tr>
 </table>
 
-<!-- Copy-paste in your Readme.md file -->
+ <br>
+ 
+> [!NOTE]  
+> Highlights information that users should take into account, even when skimming.
 
-<a href="https://next.ossinsight.io/widgets/official/compose-recent-active-contributors?repo_id=41986369&limit=30" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-recent-active-contributors/thumbnail.png?repo_id=41986369&limit=30&image_size=auto&color_scheme=dark" width="655" height="auto">
-    <img alt="Active Contributors of pingcap/tidb - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-recent-active-contributors/thumbnail.png?repo_id=41986369&limit=30&image_size=auto&color_scheme=light" width="655" height="auto">
-  </picture>
-</a>
-
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
-
+> [!IMPORTANT]  
+> Crucial information necessary for users to succeed.
