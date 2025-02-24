@@ -45,7 +45,7 @@ Empresa yucateca dedicada a la aplicación e innovación de las tecnologías act
 
 | Star Geographic Distribution | Star History |
 | ----------- | ----------- |
-|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-map/thumbnail.png?activity=stars&repo_id=41986369&image_size=auto" />|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-history/thumbnail.png?repo_id=41986369&image_size=auto" />|
+|<img src="https://ticket2pass.com/images/home/map_axxess.webp" />|<img src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-history/thumbnail.png?repo_id=41986369&image_size=auto" />|
 
 <picture>
   <source
@@ -61,9 +61,8 @@ Empresa yucateca dedicada a la aplicación e innovación de las tecnologías act
 
 ---
 
-### 📫 Contact
+### ⚡️ Where to find me
 
-<h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.facebook.com/https://www.facebook.com/PromtecInnovation/" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=#0866ff" alt="facebook" /></a></p>
 
                                                                                                                                                              
