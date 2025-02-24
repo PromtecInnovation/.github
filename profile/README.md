@@ -13,10 +13,10 @@
 <p align="center">
  <table align="center">
   <tr border="none">
-   <td width="50%" align="left">
+   <td width="60%" align="left">
     Representante en México y Centroamerica de Axess, uno de los principales fabricantes de sistemas de gestión de acceso y emisión de boletos a nivel mundial con planta en Austria y oficinas en todo el mundo.  Su solución de acceso integra hardware y software propietarios que garantizan la mejor experiencia de usuario, con lecturas rápidas y confiables. Cuentan con diversos tipos de integración con lideres del mercado tales como: Ticketmaster, Live Nation y Secutix; ademas de permitir el uso de sistemas de boletaje de ultima generación como NFC, códigos dinámicos y tickets virtuales. Su equipo de desarrollo de software, les permite adaptar y construir soluciones a la medida de los clientes.</td>
-    <td width="50%" align="center">
-     <img src="https://ticket2pass.com/images/home/map_axxess.webp" alt="axess map" height="180" width="320">     
+    <td width="40%" align="center">
+     <img src="https://ticket2pass.com/images/home/map_axxess.webp" alt="axess map" width="100%">     
     </td>
    </tr>
  </table>
