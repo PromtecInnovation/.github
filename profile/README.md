@@ -20,7 +20,7 @@ This is a [hover text](## "your hover text") example.
 
 [Display text](a "Hover text")
 
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" />](https://www.youtube.com/youtube-id)(a "JavaScript")
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" />](https://www.youtube.com/youtube-id a "JavaScript")
 
 ---
 Representante en México y Centroamerica de Axess, uno de los principales fabricantes de sistemas de gestión de acceso y emisión de boletos a nivel mundial con planta en Austria y oficinas en todo el mundo.  Su solución de acceso integra hardware y software propietarios que garantizan la mejor experiencia de usuario, con lecturas rápidas y confiables. Cuentan con diversos tipos de integración con lideres del mercado tales como: Ticketmaster, Live Nation y Secutix; ademas de permitir el uso de sistemas de boletaje de ultima generación como NFC, códigos dinámicos y tickets virtuales. Su equipo de desarrollo de software, les permite adaptar y construir soluciones a la medida de los clientes.
