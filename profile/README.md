@@ -237,6 +237,20 @@
   <tr border="none">
     <td align="center">
       <div>
+        <a href="https://github.com/JorgeM-Promtec">
+          <img src="https://github.com/JorgeM-Promtec.png" width="100px;" alt="Jorge Montanez" />
+          <br />
+          <sub>
+            <b>Jorge Montanez</b>
+          </sub>
+        </a>
+      </div>
+      <div>
+        <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/frontend.png" width="30" title="Frontend">
+      </div>
+    </td>
+    <td align="center">
+      <div>
         <a href="https://github.com/ManuelSamos">
           <img src="https://github.com/ManuelSamos.png" width="100px;" alt="ManuelSamos" style="border-radius: 50%;" />
           <br />
