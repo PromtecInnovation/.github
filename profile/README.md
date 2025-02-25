@@ -1,8 +1,8 @@
-<div style="display: flex;" with="100%">
+
  <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/promtec_Barner.jpg" alt="promtec" width="45%" align="left">
  <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/axess.jpg" alt="axess" width="45%" align="right">
  <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/orange_bar.png" width ="100%" height="4"> 
-</div>
+
 
 <br>
 <!--- Description (start) -->
