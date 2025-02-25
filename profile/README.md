@@ -2,7 +2,6 @@
  <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/axess_logo_t.png" alt="axess" width="45%" align="right">
  <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/orange_bar.png" width ="100%" height="4">
 
-<br>
 <!--- Description (start) -->
 
 ### <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/business-management.gif" width ="30"><b> About us</b><img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/orange_bar.png" width ="100%" height="0.5">
@@ -26,8 +25,76 @@
 <a href="https://www.youtube.com/watch?v=yq7UWXE54F4" target="_blank"><img src="https://img.youtube.com/vi/yq7UWXE54F4/mqdefault.jpg" alt="axess" height="220" width="45%" align="right"/></a>
 <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/orange_bar.png" width ="100%" height="1"> 
 <!--- Description (end) -->
+<br>
 
-<br> 
+### <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/business-management.gif" width ="30"><b> Post</b><img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/orange_bar.png" width ="100%" height="0.5">
+
+<div id="proyectos">
+<table align="left" >
+	<tr border="none">
+  		<td width="25%" align="center">
+    			<p align="center">
+     				<a href="https://www.youtube.com/watch?v=QOqBzF1os1g" title="Go to Source">
+        				<img align="center" width=100% src="https://img.youtube.com/vi/QOqBzF1os1g/mqdefault.jpg"  alt="VIDEO"/>
+     				</a>
+      			</p>
+    			<p align="center">
+        			<a href="https://youtu.be/rISmdhlhOPM" target="blank">
+					<img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  />
+				</a>
+      				<a href="https://github.com/unsimpledev/ProyectoSMSGateway" target="blank">
+					<img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" />
+				</a>
+    			</p>       
+		</td>
+		<td width="25%" align="center">
+			<p align="center">
+		     		<a href="https://www.youtube.com/watch?v=wH-RNiw_WmE" title="Go to Source">
+		        		<img align="center" width=100% src="https://img.youtube.com/vi/wH-RNiw_WmE/mqdefault.jpg"   alt="VIDEO" />
+				</a>
+			</p>
+		    	<p align="center">
+		        	<a href="https://youtu.be/fiUkA2OZQjs" target="blank">
+					<img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  />
+				</a>
+		      		<a href="https://github.com/unsimpledev/ProyectoNotificaciones" target="blank">
+					<img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" />
+				</a>
+			</p>
+		</td>
+		<td width="25%" align="center">
+			<p align="center">
+				<a href="https://github.com/PromtecInnovation/.github/raw/refs/heads/main/profile/VID-20250224-WA0000.mp4" title="Go to Source">
+					<img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/chatgptapp.webp"   alt="VIDEO" /></a>
+			</p>
+			<p align="center">
+				<a href="https://youtu.be/py31Y1Ku4Es" target="blank">
+					<img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"/>
+				</a>
+		      		<a href="https://github.com/unsimpledev/MiChatGPT" target="blank">
+					<img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" />
+				</a>
+			</p>       
+		</td>
+   		<td width="25%" align="center">
+    			<p align="center">
+     				<a href="https://youtu.be/FbQtooM3UIs" title="Go to Source">
+        				<img align="center" width=100% src="https://raw.githubusercontent.com/unsimpledev/unsimpledev/main/assets/traductorchatgpt.webp"   alt="VIDEO" />
+				</a>
+      			</p>
+    			<p align="center">
+	        		<a href="https://youtu.be/FbQtooM3UIs" target="blank">
+					<img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  />
+				</a>
+	      			<a href="https://github.com/unsimpledev/MiTraductor" target="blank">
+					<img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" />
+				</a>
+    			</p>       
+		</td>
+	</tr>
+</table>
+</div>
+<img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/orange_bar.png" width ="100%" height="0">
  
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Technology Stacks</b><img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/orange_bar.png" width ="100%" height="0.5">
 
