@@ -158,7 +158,7 @@
 
 ### <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/phone-book.gif" width ="30"><b> Where to find me</b><img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/orange_bar.png" width ="100%" height="0.5">
 
-<p><a target="_blank" href="https://www.facebook.com/https://www.facebook.com/PromtecInnovation/" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=#0866ff" alt="facebook" /></a></p>
+<p><a target="_blank" href="https://www.facdev_ops.pngebook.com/https://www.facebook.com/PromtecInnovation/" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=#0866ff" alt="facebook" /></a></p>
     
 
 ```topojson
@@ -279,7 +279,7 @@
         </a>
       </div>
       <div>
-	<img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/orange_bar.png" width ="100%" height="0.5">
+	<img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/dev_ops.png" width ="100%" height="0.5">
         <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/frontend.png" width="30" title="Frontend">
         <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/backend.png" width="30"  title="Backend">
         <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/mobile.png" width="30"  title="Mobile">
