@@ -262,6 +262,7 @@
       </div>
       <div>
 	<img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/orange_bar.png" width ="100%" height="0.5">
+	<img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/dev_ops.png" width="30" title="DevOps">
         <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/frontend.png" width="30" title="Frontend">
         <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/backend.png" width="30"  title="Backend">
         <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/mobile.png" width="30"  title="Mobile">
