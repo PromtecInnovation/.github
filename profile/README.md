@@ -309,6 +309,7 @@
       </div>
       <div>
         <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/frontend.png" width="30" title="Frontend">
+	<img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/icons_277302.svg" width="30" title="Quality Assurance, QA">
       </div>
     </td>
   </tr>
