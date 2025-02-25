@@ -246,7 +246,8 @@
         </a>
       </div>
       <div>
-        <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/frontend.png" width="30" title="Frontend">
+	<img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/orange_bar.png" width ="100%" height="0.5">
+        <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/projectM.png" width="30" title="Project Management">
       </div>
     </td>
     <td align="center">
@@ -260,6 +261,7 @@
         </a>
       </div>
       <div>
+	<img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/orange_bar.png" width ="100%" height="0.5">
         <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/frontend.png" width="30" title="Frontend">
         <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/backend.png" width="30"  title="Backend">
         <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/mobile.png" width="30"  title="Mobile">
@@ -276,6 +278,7 @@
         </a>
       </div>
       <div>
+	<img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/orange_bar.png" width ="100%" height="0.5">
         <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/frontend.png" width="30" title="Frontend">
         <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/backend.png" width="30"  title="Backend">
         <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/mobile.png" width="30"  title="Mobile">
@@ -292,6 +295,7 @@
         </a>
       </div>
       <div>
+	<img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/orange_bar.png" width ="100%" height="0.5">
         <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/frontend.png" width="30" title="Frontend">
         <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/backend.png" width="30"  title="Backend">
       </div>
@@ -307,6 +311,7 @@
         </a>
       </div>
       <div>
+	<img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/orange_bar.png" width ="100%" height="0.5">
         <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/frontend.png" width="30" title="Frontend">
         <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/mobile.png" width="30"  title="Mobile">
       </div>
@@ -322,6 +327,7 @@
         </a>
       </div>
       <div>
+	<img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/orange_bar.png" width ="100%" height="0.5">
         <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/frontend.png" width="30" title="Frontend">
 	<img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/icons_277302.svg" width="30" title="Quality Assurance, QA">
       </div>
