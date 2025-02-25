@@ -8,93 +8,97 @@
 
 <table align="center" width="100%" border="0">
   <tr border="none">
-   <td width="60%" align="left">
-    Representative in Mexico and Central America for Axess, one of the world's leading manufacturers of access management and ticketing systems, with a plant in Austria and offices worldwide. Their access solution integrates proprietary hardware and software to ensure the best user experience, featuring fast and reliable scanning. They offer various integrations with market leaders such as Ticketmaster, Live Nation, and Secutix, as well as support for next-generation ticketing systems like NFC, dynamic codes, and virtual tickets. Their software development team enables them to adapt and build customized solutions for clients.</td>
+    <td width="60%" align="left"> Representative in Mexico and Central America for Axess, one of the world's leading manufacturers of access management and ticketing systems, with a plant in Austria and offices worldwide. Their access solution integrates proprietary hardware and software to ensure the best user experience, featuring fast and reliable scanning. They offer various integrations with market leaders such as Ticketmaster, Live Nation, and Secutix, as well as support for next-generation ticketing systems like NFC, dynamic codes, and virtual tickets. Their software development team enables them to adapt and build customized solutions for clients.</td>
     <td width="40%" align="center">
-     <img src="https://ticket2pass.com/images/home/map_axxess.webp" alt="axess map" width="100%">     
+      <img src="https://ticket2pass.com/images/home/map_axxess.webp" alt="axess map" width="100%">
     </td>
-   </tr>
- <tr border="none">
-  <td colspan="2" width="100%" align="left">
-     <strong>Promtec Innovation</strong> is a Yucatecan company dedicated to the application and innovation of current technologies. Composed of young professionals, we are integrated into the global economy, with suppliers and partners in Asia, North America, and Europe.
-  </td>
- </tr>
+  </tr>
+  <tr border="none">
+    <td colspan="2" width="100%" align="left">
+      <strong>Promtec Innovation</strong> is a Yucatecan company dedicated to the application and innovation of current technologies. Composed of young professionals, we are integrated into the global economy, with suppliers and partners in Asia, North America, and Europe.
+    </td>
+  </tr>
 </table>
 
-<a href="https://ticket2pass.com/" target="_blank"><img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/promtec_office.jpeg" alt="promtec" height="220" width="45%" align="left"/></a>
-<a href="https://www.youtube.com/watch?v=yq7UWXE54F4" target="_blank"><img src="https://img.youtube.com/vi/yq7UWXE54F4/mqdefault.jpg" alt="axess" height="220" width="45%" align="right"/></a>
-<img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/orange_bar.png" width ="100%" height="1"> 
+<a href="https://ticket2pass.com/" target="_blank">
+  <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/promtec_office.jpeg" alt="promtec" height="220" width="45%" align="left" />
+</a>
+<a href="https://www.youtube.com/watch?v=yq7UWXE54F4" target="_blank">
+  <img src="https://img.youtube.com/vi/yq7UWXE54F4/mqdefault.jpg" alt="axess" height="220" width="45%" align="right" />
+</a>
+<img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/orange_bar.png" width="100%" height="1">
 <!--- Description (end) -->
 
 ### <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/video.gif" width ="30"><b> Youtube post</b><img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/orange_bar.png" width ="100%" height="0.5">
 
 <div id="proyectos">
-<table align="left" >
-	<tr border="none">
-  		<td width="25%" align="center">
-    			<p align="center">
-     				<a href="https://www.youtube.com/watch?v=QOqBzF1os1g" title="Go to Source">
-        				<img align="center" width=100% src="https://img.youtube.com/vi/QOqBzF1os1g/mqdefault.jpg" alt="VIDEO"/>
-     				</a>
-      			</p>
-    			<p align="center">
-        			<a href="https://youtu.be/QOqBzF1os1g" target="blank">
-					<img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  />
-				</a>
-      				<a>
-					<img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" />
-				</a>
-    			</p>       
-		</td>
-		<td width="25%" align="center">
-			<p align="center">
-		     		<a href="https://www.youtube.com/watch?v=wH-RNiw_WmE" title="Go to Source">
-		        		<img align="center" width=100% src="https://img.youtube.com/vi/wH-RNiw_WmE/mqdefault.jpg" alt="VIDEO" />
-				</a>
-			</p>
-		    	<p align="center">
-		        	<a href="https://youtu.be/wH-RNiw_WmE" target="blank">
-					<img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  />
-				</a>
-		      		<a>
-					<img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" />
-				</a>
-			</p>
-		</td>
-		<td width="25%" align="center">
-			<p align="center">
-				<a href="https://www.youtube.com/watch?v=RbGGzZvFaN8" title="Go to Source">
-					<img align="center" width=100% src="https://img.youtube.com/vi/RbGGzZvFaN8/mqdefault.jpg" alt="VIDEO" /></a>
-			</p>
-			<p align="center">
-				<a href="https://youtu.be/RbGGzZvFaN8" target="blank">
-					<img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"/>
-				</a>
-		      		<a>
-					<img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" />
-				</a>
-			</p>       
-		</td>
-   		<td width="25%" align="center">
-    			<p align="center">
-     				<a href="https://www.youtube.com/watch?v=kWcktjBYKZE" title="Go to Source">
-        				<img align="center" width=100% src="https://img.youtube.com/vi/kWcktjBYKZE/mqdefault.jpg" alt="VIDEO" />
-				</a>
-      			</p>
-    			<p align="center">
-	        		<a href="https://youtu.be/kWcktjBYKZE" target="blank">
-					<img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  />
-				</a>
-	      			<a>
-					<img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" />
-				</a>
-    			</p>       
-		</td>
-	</tr>
-</table>
-<img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/orange_bar.png" width ="100%" height="0.5">
-</div><br>
-
+  <table align="left">
+    <tr border="none">
+      <td width="25%" align="center">
+        <p align="center">
+          <a href="https://www.youtube.com/watch?v=QOqBzF1os1g" title="Go to Source">
+            <img align="center" width=100% src="https://img.youtube.com/vi/QOqBzF1os1g/mqdefault.jpg" alt="VIDEO" />
+          </a>
+        </p>
+        <p align="center">
+          <a href="https://youtu.be/QOqBzF1os1g" target="blank">
+            <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev" />
+          </a>
+          <a>
+            <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" />
+          </a>
+        </p>
+      </td>
+      <td width="25%" align="center">
+        <p align="center">
+          <a href="https://www.youtube.com/watch?v=wH-RNiw_WmE" title="Go to Source">
+            <img align="center" width=100% src="https://img.youtube.com/vi/wH-RNiw_WmE/mqdefault.jpg" alt="VIDEO" />
+          </a>
+        </p>
+        <p align="center">
+          <a href="https://youtu.be/wH-RNiw_WmE" target="blank">
+            <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev" />
+          </a>
+          <a>
+            <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" />
+          </a>
+        </p>
+      </td>
+      <td width="25%" align="center">
+        <p align="center">
+          <a href="https://www.youtube.com/watch?v=RbGGzZvFaN8" title="Go to Source">
+            <img align="center" width=100% src="https://img.youtube.com/vi/RbGGzZvFaN8/mqdefault.jpg" alt="VIDEO" />
+          </a>
+        </p>
+        <p align="center">
+          <a href="https://youtu.be/RbGGzZvFaN8" target="blank">
+            <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev" />
+          </a>
+          <a>
+            <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" />
+          </a>
+        </p>
+      </td>
+      <td width="25%" align="center">
+        <p align="center">
+          <a href="https://www.youtube.com/watch?v=kWcktjBYKZE" title="Go to Source">
+            <img align="center" width=100% src="https://img.youtube.com/vi/kWcktjBYKZE/mqdefault.jpg" alt="VIDEO" />
+          </a>
+        </p>
+        <p align="center">
+          <a href="https://youtu.be/kWcktjBYKZE" target="blank">
+            <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev" />
+          </a>
+          <a>
+            <img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="@unsimpledev" />
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
+  <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/orange_bar.png" width="100%" height="0.5">
+</div>
+<br>
  
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Technology Stacks</b><img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/orange_bar.png" width ="100%" height="0.5">
 
@@ -141,7 +145,7 @@
   />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PromtecMaster&show_icons=true" align="right" />
 </picture>
- <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/orange_bar.png" width ="100%" height="0"> 
+<img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/orange_bar.png" width ="100%" height="0"> 
 
 
 <br/>
@@ -232,49 +236,87 @@
 <table align="center" width="100%">
   <tr border="none">
     <td align="center">
-      <a href="https://github.com/ManuelSamos">
-         <img src="https://github.com/ManuelSamos.png" width="100px;" alt="ManuelSamos" style="border-radius: 50%;"/> 
-        <br />
-        <sub><b>Manuel Samos</b></sub>
-      </a>
+      <div>
+        <a href="https://github.com/ManuelSamos">
+          <img src="https://github.com/ManuelSamos.png" width="100px;" alt="ManuelSamos" style="border-radius: 50%;" />
+          <br />
+          <sub>
+            <b>Manuel Samos</b>
+          </sub>
+        </a>
+      </div>
+      <div>
+        <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/frontend.png" width="30" title="Frontend">
+        <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/backend.png" width="30"  title="Backend">
+        <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/mobile.png" width="30"  title="Mobile">
+      </div>
     </td>
     <td align="center">
-      <a href="https://github.com/ARM-develope">
-        <img src="https://github.com/ARM-developer.png" width="100px;" alt="ARM-develope"/>
-        <br />
-        <sub><b>Alejandro Ruiz</b></sub>
-      </a>
+      <div>
+        <a href="https://github.com/ARM-develope">
+          <img src="https://github.com/ARM-developer.png" width="100px;" alt="ARM-develope" />
+          <br />
+          <sub>
+            <b>Alejandro Ruiz</b>
+          </sub>
+        </a>
+      </div>
+      <div>
+        <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/frontend.png" width="30" title="Frontend">
+        <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/backend.png" width="30"  title="Backend">
+        <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/mobile.png" width="30"  title="Mobile">
+      </div>
     </td>
     <td align="center">
-      <a href="https://github.com/SariMelina">
-        <img src="https://github.com/SariMelina.png" width="100px;" alt="SariMelina"/>
-        <br />
-        <sub><b>Sara Reyes</b></sub>
-      </a>
+      <div>
+        <a href="https://github.com/SariMelina">
+          <img src="https://github.com/SariMelina.png" width="100px;" alt="SariMelina" />
+          <br />
+          <sub>
+            <b>Sara Reyes</b>
+          </sub>
+        </a>
+      </div>
+      <div>
+        <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/frontend.png" width="30" title="Frontend">
+        <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/backend.png" width="30"  title="Backend">
+      </div>
     </td>
     <td align="center">
-      <a href="https://github.com/apadron06">
-        <img src="https://github.com/apadron06.png" width="100px;" alt="apadron06"/>
-        <br />
-        <sub><b>Armando Padron</b></sub>
-      </a>
+      <div>
+        <a href="https://github.com/apadron06">
+          <img src="https://github.com/apadron06.png" width="100px;" alt="apadron06" />
+          <br />
+          <sub>
+            <b>Armando Padron</b>
+          </sub>
+        </a>
+      </div>
+      <div>
+        <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/frontend.png" width="30" title="Frontend">
+        <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/mobile.png" width="30"  title="Mobile">
+      </div>
     </td>
     <td align="center">
-      <a href="https://github.com/AngelaChable">
-        <img src="https://github.com/AngelaChable.png" width="100px;" style="clip-path: polygon('20% 0%, 80% 0%, 100% 20%, 100% 80%, 80% 100%, 20% 100%, 0% 80%, 0% 20%')  !important;" alt="AngelaChable"/>
-        <br />
-        <sub><b>Angela Chable</b></sub>
-      </a>
+      <div>
+        <a href="https://github.com/AngelaChable">
+          <img src="https://github.com/AngelaChable.png" width="100px;" alt="AngelaChable" />
+          <br />
+          <sub>
+            <b>Angela Chable</b>
+          </sub>
+        </a>
+      </div>
+      <div>
+        <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/frontend.png" width="30" title="Frontend">
+      </div>
     </td>
   </tr>
 </table>
-
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+<p align="center">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" />
 </p>
-
- <br>
- 
+<br>
 
 
 > [!IMPORTANT]  
