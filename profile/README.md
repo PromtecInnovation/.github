@@ -2,6 +2,8 @@
  <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/axess_logo_t.png" alt="axess" width="45%" align="right">
  <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/orange_bar.png" width ="100%" height="4">
 
+![](https://komarev.com/ghpvc/?username=PromtecInnovation&color=orange&style=for-the-badge)
+
 <!--- Description (start) -->
 
 ### <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/business-management.gif" width ="30"><b> About us</b><img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/orange_bar.png" width ="100%" height="0.5">
@@ -23,7 +25,7 @@
 <a href="https://ticket2pass.com/" target="_blank">
   <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/promtec_office.jpeg" alt="promtec" height="220" width="45%" align="left" />
 </a>
-<a href="https://www.youtube.com/watch?v=yq7UWXE54F4" target="_blank">
+<a href="https://teamaxess.com/es/" target="_blank">
   <img src="https://img.youtube.com/vi/yq7UWXE54F4/mqdefault.jpg" alt="axess" height="220" width="45%" align="right" />
 </a>
 <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/orange_bar.png" width="100%" height="1">
@@ -339,6 +341,7 @@
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" />
 </p>
 <br>
+
 
 
 > [!IMPORTANT]  
