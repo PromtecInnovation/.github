@@ -61,7 +61,7 @@
     srcset="https://github-readme-stats.vercel.app/api?username=PromtecMaster&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=PromtecMaster&show_icons=true" width="450" height="195"  align="left"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PromtecMaster&show_icons=true" width="400" height="195"  align="left"/>
 </picture>
 
 <picture>
@@ -73,7 +73,7 @@
     srcset="https://github-readme-streak-stats.herokuapp.com/?user=PromtecMaster&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PromtecMaster&show_icons=true" width="450" height="195" align="right" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PromtecMaster&show_icons=true" width="400" height="195" align="right" />
 </picture>
 
 
