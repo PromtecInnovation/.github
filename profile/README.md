@@ -1,7 +1,6 @@
  <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/promtec_Barner.jpg" alt="promtec" width="45%" align="left">
  <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/axess.jpg" alt="axess" width="45%" align="right">
- <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/orange_bar.png" width ="100%" height="4"> 
-
+ <img src="https://raw.githubusercontent.com/PromtecInnovation/.github/refs/heads/main/profile/orange_bar.png" width ="100%" height="4">
 
 <br>
 <!--- Description (start) -->
@@ -97,15 +96,50 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {
-        "zoom":[16.64]
-      },
+      "properties": {},
       "geometry": {
         "coordinates": [
           -89.62088961157328,
           21.001229016031516
         ],
         "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+	"stroke": "#555555",
+	"stroke-width": 2,
+	"stroke-opacity": 0,
+	"fill": "#00aa22",
+	"fill-opacity": 0
+     },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -89.62805200567091,
+              21.003682535513377
+            ],
+            [
+              -89.62805200567091,
+              20.997288882982275
+            ],
+            [
+              -89.61629384375738,
+              20.997288882982275
+            ],
+            [
+              -89.61629384375738,
+              21.003682535513377
+            ],
+            [
+              -89.62805200567091,
+              21.003682535513377
+            ]
+          ]
+        ],
+        "type": "Polygon"
       }
     }
   ]
