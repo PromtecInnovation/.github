@@ -52,7 +52,7 @@
           </a>
         </p>
       </td>
-      <td width="25%" align="center">github
+      <td width="25%" align="center">
         <p align="center">
           <a href="https://www.youtube.com/watch?v=wH-RNiw_WmE" title="Go to Source">
             <img align="center" width=100% src="https://img.youtube.com/vi/wH-RNiw_WmE/mqdefault.jpg" alt="VIDEO" />
