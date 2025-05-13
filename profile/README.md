@@ -69,7 +69,7 @@
           </a>
         </p>
         <p align="center">
-          <a href="https://youtu.be/wH-RNiw_WmE" target="blank">
+          <a href="https://youtu.be/Lxvt49fMLHo" target="blank">
             <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev" />
           </a>
           <a>
