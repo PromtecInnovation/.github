@@ -65,7 +65,7 @@
       <td width="25%" align="center">
         <p align="center">
           <a href="https://www.youtube.com/watch?v=nVjD2GMrTqA&list=PLFUPznXlrcXAzOYalaht_jNEpAuNqZVy-" title="Go to Source">
-            <img align="center" width=100% src="https://img.youtube.com/vi/Lxvt49fMLHo/mqdefault.jpg" alt="VIDEO" />
+            <img align="center" width=100% src="https://img.youtube.com/vi/nVjD2GMrTqA/mqdefault.jpg" alt="VIDEO" />
           </a>
         </p>
         <p align="center">
